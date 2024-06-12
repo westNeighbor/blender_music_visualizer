@@ -3,7 +3,7 @@ audio spectrum visualization in Blender using Geometry Nodes
 
 A showcase here
 
-[![Addon Effect](http://img.youtube.com/vi/FwPJHIYeGy8/0.jpg)]([https://www.youtube.com/watch?v=jEz0FAp4ui0](https://www.youtube.com/watch?v=FwPJHIYeGy8))
+[![Addon Effect](http://img.youtube.com/vi/FwPJHIYeGy8/0.jpg)](https://www.youtube.com/watch?v=FwPJHIYeGy8)
 
 # installation
 > Edit -> Preference -> Addon (select on the left side bar) -> Install (on the top)
