@@ -16,5 +16,9 @@ It's pretty simple and straightforward to use. Overall all there are two parts.
    
    You can just use the original spectrum data (the `z` location) to visualize your stuff. I also give an preset visualizer which is basic but very nice to go. I would suggest the way to go is using `Geometry Nodes`, which is easy, quick and powerful. I will post some toturials to show some examples.
 
+# Be aware
+
+For the top Deco instancing part, when you choose `collection`, remember to check `Pick Instance` to separate all the objects in the collection. However, before changing back to `Object` or `Default`, you must **uncheck** `Pick Instance` first, otherwise, the object or default will not appear.
+
 # Tutorial
 If you need more information and knowledge about my addon, you can check my tutorial on YouTube.
