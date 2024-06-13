@@ -3,6 +3,9 @@ audio spectrum visualization in Blender using Geometry Nodes
 
 A showcase here
 
+![](https://github.com/westNeighbor/blender_music_visualizer/blob/main/0490.png)
+![](https://github.com/westNeighbor/blender_music_visualizer/blob/main/Music_visualizer_show.mp4)
+
 [![Addon Effect](http://img.youtube.com/vi/FwPJHIYeGy8/0.jpg)](https://www.youtube.com/watch?v=FwPJHIYeGy8)
 
 # installation
