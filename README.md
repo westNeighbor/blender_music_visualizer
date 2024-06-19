@@ -11,7 +11,7 @@ A showcase here
 # installation
 > Edit -> Preference -> Addon (select on the left side bar) -> Install (on the top)
 select the .zip file to install, after installation, enable it by checking the checkbox.
-Go the viewport, press `N` key to open side panel, you will find the addon at the bottom, now you can explore it to use.
+Go to the viewport, press `N` key to open side panel, you will find the addon at the bottom, now you can explore it to use.
 
 # usage
 It's pretty simple and straightforward to use. Overall all there are two parts. 
