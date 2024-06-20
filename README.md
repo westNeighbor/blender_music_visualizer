@@ -27,7 +27,8 @@ It's pretty simple and straightforward to use. Overall all there are two parts.
 
 # Be aware
 
-For the top Deco instancing part, when you choose `collection`, remember to check `Pick Instance` to separate all the objects in the collection. However, before changing back to `Object` or `Default`, you must **uncheck** `Pick Instance` first, otherwise, the object or default will not appear.
-
+- For the top Deco instancing part, when you choose `collection`, remember to check `Pick Instance` to separate all the objects in the collection. However, before changing back to `Object` or `Default`, you must **uncheck** `Pick Instance` first, otherwise, the object or default will not appear.
+- Don't change the mesh name and the modifier name, but you can change the object name and the node group name.
+  
 # Tutorial
 If you need more information and knowledge about my addon, you can check my tutorial on YouTube.
