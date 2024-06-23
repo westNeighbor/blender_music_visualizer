@@ -13,7 +13,7 @@ A showcase here
 select the .zip file to install, after installation, enable it by checking the checkbox.
 Go to the viewport, press `N` key to open side panel, you will find the addon at the bottom, now you can explore it to use.
 
-The addon relys on a shipped addon `Power Sequencer`, you also need to enable it.
+The addon relys on the Blender shipped addon `Power Sequencer`, you also need to enable it.
 
 # usage
 It's pretty simple and straightforward to use. Overall all there are two parts. 
