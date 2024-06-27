@@ -32,3 +32,5 @@ It's pretty simple and straightforward to use. Overall all there are two parts.
   
 # Tutorial
 If you need more information and knowledge about my addon, you can check my tutorial on YouTube.
+
+[![Blender Music Visualizer tutorial](https://img.youtube.com/vi/I4mhP8GXmYo/hqdefault.jpg)](https://www.youtube.com/watch?v=I4mhP8GXmYo)
