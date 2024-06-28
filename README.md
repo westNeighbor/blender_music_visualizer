@@ -29,6 +29,7 @@ It's pretty simple and straightforward to use. Overall all there are two parts.
 
 # Be aware
 
+- When you change something, you nay need to change frame to see the effect
 - For the top Deco instancing part, when you choose `collection`, remember to check `Pick Instance` to separate all the objects in the collection. 
 - Don't change the mesh name and the modifier name, but you can change the object name and the node group name.
   
