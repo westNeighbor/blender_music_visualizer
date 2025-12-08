@@ -7,7 +7,7 @@ A showcase here
 
 | GitHub play | YouTube play |
 |---------|---------|
-| ![Showcase](resources/Music_visualizer_show.gif) | [![Addon Effect](http://img.youtube.com/vi/FwPJHIYeGy8/0.jpg)] |
+| ![Showcase](resources/Music_visualizer_show.gif) | [![Addon Effect](http://img.youtube.com/vi/FwPJHIYeGy8/0.jpg)](https://www.youtube.com/watch?v=FwPJHIYeGy8) |
 
 # installation
 > Edit -> Preference -> Addon (select on the left side bar) -> Install (on the top)
