@@ -5,8 +5,8 @@ You can get it from my Gumroad page: [Blender Music Visualizer Addon](https://mh
 
 A showcase here
 
-![](https://github.com/westNeighbor/blender_music_visualizer/blob/main/0490.png)
-![](https://github.com/westNeighbor/blender_music_visualizer/blob/main/Music_visualizer_show.mp4)
+![](resources/0490.png)
+![](resources/Music_visualizer_show.mp4)
 
 [![Addon Effect](http://img.youtube.com/vi/FwPJHIYeGy8/0.jpg)](https://www.youtube.com/watch?v=FwPJHIYeGy8)
 
@@ -15,10 +15,12 @@ A showcase here
 select the .zip file to install, after installation, enable it by checking the checkbox.
 Go to the viewport, press `N` key to open side panel, you will find the addon at the bottom, now you can explore it to use.
 
-The addon relys on the Blender shipped addon `Power Sequencer`, you also need to enable it.
+~~The addon relys on the Blender shipped addon `Power Sequencer`, you also need to enable it.~~New update don't rely on it anymore.
 
 # usage
-It's pretty simple and straightforward to use. Overall all there are two parts. 
+It's pretty simple and straightforward to use.
+## Audio Input
+![Audio Input](resources/music_visualizer_audioinput.png)
 1. Music Spectrum
 
    It generates the audio spectrum and adjustable settings are ready to go. Just select the audio/music you would like to visualize, then press the `new spectrum` button, it is just this simple. By the way, video file is also supported, but only the audio get used.
@@ -26,6 +28,12 @@ It's pretty simple and straightforward to use. Overall all there are two parts.
 2. Visualizer
    
    You can just use the original spectrum data (the `z` location) to visualize your stuff. I also give an preset visualizer which is basic but very nice to go. I would suggest the way to go is using `Geometry Nodes`, which is easy, quick and powerful. I will post some toturials to show some examples.
+
+## Mic Input
+![Mic Input](resources/music_visualizer_micinput.png)
+Now it's supporting live micphone to drive data. Just select an object and give the `Data Path` 
+
+- If you don't know the `Data path`, just right click a data and `Copy Data Path`
 
 # Be aware
 
