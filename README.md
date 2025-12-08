@@ -5,9 +5,9 @@ You can get it from my Gumroad page: [Blender Music Visualizer Addon](https://mh
 
 A showcase here
 
-![Showcase](resources/Music_visualizer_show.gif)
-
-[![Addon Effect](http://img.youtube.com/vi/FwPJHIYeGy8/0.jpg)](https://www.youtube.com/watch?v=FwPJHIYeGy8)
+| GitHub play | YouTube play |
+|---------|---------|
+| ![Showcase](resources/Music_visualizer_show.gif) | [![Addon Effect](http://img.youtube.com/vi/FwPJHIYeGy8/0.jpg)] |
 
 # installation
 > Edit -> Preference -> Addon (select on the left side bar) -> Install (on the top)
