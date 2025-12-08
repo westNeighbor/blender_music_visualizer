@@ -57,15 +57,15 @@ Now it's supporting live microphone to drive data. Just select an object and giv
 
 - If you don't know the <code>Data Path</code>, just right click a data and <strong>Copy Data Path</strong>.
 
-<h3>Be aware</h3>
-
-- When you change something, you may need to change frame to see the effect.  
-- For the top Deco instancing part, when you choose <strong>collection</strong>, remember to check <strong>Pick Instance</strong> to separate all the objects in the collection.  
-- Don't change the <strong>mesh name</strong> and the <strong>modifier name</strong>, but you can change the <strong>object name</strong> and the <strong>node group name</strong>.
-
 </td>
 </tr>
 </table>
+
+# Be aware
+
+- When you change something, you may need to change frame to see the effect.  
+- For the top Deco instancing part, when you choose **collection**, remember to check **Pick Instance** to separate all the objects in the collection.  
+- Don't change the **mesh name** and the **modifier name**, but you can change the **object name** and the **node group name**.
   
 # Tutorial
 If you need more information and knowledge about my addon, you can check my tutorial on YouTube.
