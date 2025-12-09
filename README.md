@@ -72,6 +72,7 @@ You can just use the original spectrum data (the `z` location) to visualize your
 Now it's supporting live microphone to drive data. Just select an object and give the <code>Data Path</code>.
 
 - If you don't know the <code>Data Path</code>, just right click a data and <strong>Copy Data Path</strong>.
+- Increase the `Volume Scale` to `100` make the effect more obvious.
 
 </td>
 </tr>
