@@ -80,7 +80,7 @@ you can use spectrum data (stored in the original data z location) to drive your
 </tr>
 </table>
 
-## Mic Input
+## Music Spectrum Node
 
 <table>
 <tr>
@@ -91,6 +91,7 @@ you can use spectrum data (stored in the original data z location) to drive your
 </td>
 <td>
 I also provide a Geometry Node Group <strong>Music Spectrum</strong> for you access to the spectrum data easily. It will available when you add <code>new spectrum</code>.
+
 - Adjust <code>Scale</code> and <code>Baseline</code> to fit your need.
 </td>
 </tr>
