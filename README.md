@@ -63,9 +63,12 @@ You can just use the original spectrum data (the `z` location) to visualize your
 <table>
 <tr>
 <td>
+
 ![Mic Input](resources/music_visualizer_micinput.png)
+
 </td>
 <td>
+
 Now it's supporting live microphone to drive data. Just select an object and give the <code>Data Path</code>. Or 
 you can use spectrum data (stored in the original data z location) to drive your data or just use the preset  visualizer to show the spectrum.
 
@@ -78,10 +81,13 @@ you can use spectrum data (stored in the original data z location) to drive your
 </table>
 
 ## Mic Input
+
 <table>
 <tr>
 <td>
+
 ![Music Spectrum Node](resources/spectrum_node.png)
+
 </td>
 <td>
 I also provide a Geometry Node Group <strong>Music Spectrum</strong> for you access to the spectrum data easily. It will available when you add <code>new spectrum</code>.
