@@ -75,7 +75,7 @@ you can use spectrum data (stored in the original data z location) to drive your
 - If you don't know the <code>Data Path</code>, just right click a data and <strong>Copy Data Path</strong>.
 - The Spectrum Data is stored in the <code>z</code> location of the <code>new spectrum</code> object.
 - You can use the preset visualizer to visualize the spectrum.
-- You can filter the frequency by adjusting the <code>Min Freq</code> and <code>Max Freq</code>.
+- You can filter the frequency by adjusting the <code>Low Freq</code> and <code>High Freq</code>.
 </td>
 </tr>
 </table>
