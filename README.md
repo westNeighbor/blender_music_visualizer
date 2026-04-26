@@ -1,4 +1,9 @@
-# blender_music_visualizer
+<div align="center">
+
+# Ultimate Blender Music Visualizer Addon
+
+</div>
+![cover](resources/cover.jpg)
 audio spectrum visualization in Blender using Geometry Nodes
 
 You can get it from my Gumroad page: [Blender Music Visualizer Addon](https://mhstar.gumroad.com/l/zfnjq)
@@ -8,18 +13,16 @@ A showcase here
 <tr>
 <td width="50%" align="center">
 
-**GitHub play**  
+**Preset Example**  
 <br>
 <img src="resources/Music_visualizer_show.gif" alt="Showcase" />
 
 </td>
 <td width="50%" align="center">
 
-**YouTube play**  
+**Preset Example**  
 <br>
-<a href="https://www.youtube.com/watch?v=FwPJHIYeGy8">
-<img src="http://img.youtube.com/vi/FwPJHIYeGy8/0.jpg" alt="Addon Effect" />
-</a>
+<img src="resources/Music_visualizer_show2.gif" alt="Showcase2" />
 
 </td>
 </tr>
@@ -53,7 +56,9 @@ It generates the audio spectrum and adjustable settings are ready to go. Just se
 
 <h3>2. Visualizer</h3>
    
-You can just use the original spectrum data (the `z` location) to visualize your stuff. I also give an preset visualizer which is basic but very nice to go. I would suggest the way to go is using `Geometry Nodes`, which is easy, quick and powerful. I will post some toturials to show some examples.
+You can just use the original spectrum data (the `z` location) to visualize your stuff. I also give visualizer 
+presets which are basic but very nice to go. I would suggest the way to go is using `Geometry Nodes`, which is 
+easy, quick and powerful. I will post some toturials to show some examples.
 </td>
 </tr>
 </table>
