@@ -3,7 +3,9 @@
 # Ultimate Blender Music Visualizer Addon
 
 </div>
+
 ![cover](resources/cover.jpg)
+
 audio spectrum visualization in Blender using Geometry Nodes
 
 You can get it from my Gumroad page: [Blender Music Visualizer Addon](https://mhstar.gumroad.com/l/zfnjq)
