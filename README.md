@@ -30,14 +30,18 @@ A showcase here
 </tr>
 </table>
 
-# installation
+# Updates
+- New presets added, which are illustrated in the second tutoral.
+- In mic input, you can calibrate background noise now.
+
+# Installation
 > Edit -> Preference -> Addon (select on the left side bar) -> Install (on the top)
 select the .zip file to install, after installation, enable it by checking the checkbox.
 Go to the viewport, press `N` key to open side panel, you will find the addon at the bottom, now you can explore it to use.
 
 ~~The addon relies on the Blender shipped addon `Power Sequencer`; you also need to enable it.~~ New update for Blender 5.0 doesn't rely on it anymore.
 
-# usage
+# Usage
 It's pretty simple and straightforward to use.
 
 ## Audio Input
@@ -112,5 +116,7 @@ I also provide a Geometry Node Group <strong>Music Spectrum</strong> for you acc
   
 # Tutorial
 If you need more information and knowledge about my addon, you can check my tutorial on YouTube.
-
-[![Blender Music Visualizer tutorial](https://img.youtube.com/vi/I4mhP8GXmYo/hqdefault.jpg)](https://www.youtube.com/watch?v=I4mhP8GXmYo)
+| Visualizer Tutorial | Update Tutorial |
+|---------|---------|
+| [![Blender Music Visualizer tutorial](https://img.youtube.com/vi/I4mhP8GXmYo/hqdefault.jpg)](https://www.youtube.com/watch?v=I4mhP8GXmYo) 
+| [![Blender Music Visualizer tutorial](https://img.youtube.com/vi/3gE4YKqHr9M/hqdefault.jpg)](https://youtu.be/3gE4YKqHr9M) |
