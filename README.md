@@ -118,5 +118,4 @@ I also provide a Geometry Node Group <strong>Music Spectrum</strong> for you acc
 If you need more information and knowledge about my addon, you can check my tutorial on YouTube.
 | Visualizer Tutorial | Update Tutorial |
 |---------|---------|
-| [![Blender Music Visualizer tutorial](https://img.youtube.com/vi/I4mhP8GXmYo/hqdefault.jpg)](https://www.youtube.com/watch?v=I4mhP8GXmYo) 
-| [![Blender Music Visualizer tutorial](https://img.youtube.com/vi/3gE4YKqHr9M/hqdefault.jpg)](https://youtu.be/3gE4YKqHr9M) |
+| [![Blender Music Visualizer tutorial](https://img.youtube.com/vi/I4mhP8GXmYo/hqdefault.jpg)](https://www.youtube.com/watch?v=I4mhP8GXmYo) | [![Blender Music Visualizer tutorial](https://img.youtube.com/vi/3gE4YKqHr9M/hqdefault.jpg)](https://youtu.be/3gE4YKqHr9M) |
